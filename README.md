@@ -13,5 +13,4 @@ One of the motivators of grabbing a 9950X was native AVX-512, native FP16 (the 1
 
 Once ROCm on Windows, WSL2, or Linux is available for the new RDNA4 RX 9070 XT cards we can circle back and test.
 
-Initial inference testing with Gemma 2 and Lamma 3.2 on the RX 9070 XT is extremely quick. I cannot provide any data because LM Studio seems to be failing utilizing the GPU now, yesterday it was working. This definitely needs some time for the inference world to adopt the new hardware. 
-
+Initial inference testing with Gemma 2 and Lamma 3.2 on the RX 9070 XT is extremely quick. This definitely needs some time for the inference world to adopt the new hardware and for AMD to output ROCm support. 
