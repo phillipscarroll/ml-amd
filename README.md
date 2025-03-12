@@ -18,3 +18,5 @@ Right now I will just look at testing on CPU with the 9950X. So far on my offlin
 One of the motivators of grabbing a 9950X was native AVX-512, native FP16 (the 14900K has BF16) and to see how the cpu based ML workloads are handled. 
 
 Once ROCm on Windows, WSL2, or Linux is available for the new RDNA4 RX 9070 XT cards we can circle back and test.
+
+<a href="archive/navi31-rocm-zluda-pytorch-sd.md">Old 2023-2024 ROCm Navi31 Notes</a>
