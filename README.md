@@ -8,7 +8,7 @@ System Setup:
     - 9950X3D inbound, I was able to grab one on release day so I will restart testing/benchmarks
 - ASRock Taichi RX 9070 XT 16GB
 - ASRock B850i ITX Motherboard
-- Corsair EXPO DDR5 6000Mhz CL30-36-36-76
+- Corsair 96GB (48GB x 2) EXPO DDR5 6000Mhz CL30-36-36-76
     - Around 80ns latency in system
 - be quiet! Silent Loop 3 240mm AIO
 - Acer Predator GM7000 4TB NVME x 2
