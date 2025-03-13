@@ -4,8 +4,7 @@ This will serve and my notes for setting up and running AMD related projects wit
 
 System Setup:
 
-- ~~9950X 75c Limit PBO CO -30 [44k Cinebench R23]~~
-    - 9950X3D inbound, I was able to grab one on release day so I will restart testing/benchmarks
+- 9950X 75c Limit PBO CO -30 [44k Cinebench R23]
 - ASRock Taichi RX 9070 XT 16GB
 - ASRock B850i ITX Motherboard
 - Corsair 96GB (48GB x 2) EXPO DDR5 6000Mhz CL30-36-36-76
@@ -20,3 +19,5 @@ One of the motivators of grabbing a 9950X was native AVX-512, native FP16 (the 1
 Once ROCm on Windows, WSL2, or Linux is available for the new RDNA4 RX 9070 XT cards we can circle back and test.
 
 <a href="archive/navi31-rocm-zluda-pytorch-sd.md">Old 2023-2024 ROCm Navi31 Notes</a>
+
+<a href="examples/9950x-benchmarking.md">Old 2023-2024 ROCm Navi31 Notes</a>
