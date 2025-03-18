@@ -21,4 +21,4 @@ Once ROCm on Windows, WSL2, or Linux is available for the new RDNA4 RX 9070 XT c
 
 <a href="archive/navi31-rocm-zluda-pytorch-sd.md">Old 2023-2024 ROCm Navi31 Notes</a>
 
-<a href="examples/9950x-benchmarking.ipynb">9950X3D Benchmarking Notes</a>
+<a href="examples/9950x3d-benchmarking.ipynb">9950X3D Benchmarking Notes</a>
