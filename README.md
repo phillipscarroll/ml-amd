@@ -24,3 +24,9 @@ Once ROCm on Windows, WSL2, or Linux is available for the new RDNA4 RX 9070 XT c
 <a href="benchmarks/9950x3d-benchmarking.ipynb">9950X3D Benchmarking Notes</a>
 
 <a href="benchmarks/rx9070xt-benchmarking.ipynb">RX 9070 XT Benchmarking Notes</a>
+
+<a href="pytorch-directml-9070xt/README.md">RX 9070 XT PyTorch DirectML Notes</a>
+
+<a href="pytorch-directml-9070xt/rx9070xt-pytorch-directml.ipynb">RX 9070 XT PyTorch DirectML Jupyter Notebook</a>
+
+<a href="tensorflow-directml-9070xt/rx9070xt-tensorflow-directml.ipynb">RX 9070 XT PyTorch DirectML Notes and Jupyter Notebook</a>
